@@ -12,7 +12,8 @@ import (
 	"os"
 	"sort"
 	"time"
-	"tpsdrawer"
+
+	"github.com/maxsupermanhd/tpsdrawer"
 
 	_ "github.com/mattn/go-sqlite3"
 	"github.com/mazznoer/colorgrad"

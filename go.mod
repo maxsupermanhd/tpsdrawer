@@ -1,4 +1,4 @@
-module tpsdrawer
+module github.com/maxsupermanhd/tpsdrawer
 
 go 1.20
 
